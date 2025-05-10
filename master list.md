@@ -4,8 +4,8 @@
 - [ ] `unclaimed task goes here`
 
 ## Berwick
-- [ ] Ice Pillar x3 (Needs File)
-- [ ] Treasure Chest x1 (Needs File)
+- [ ] Ice Pillar x3 (need to select design, file has multiple designs)
+- [ ] Treasure Chest x1 (pending print)
 
 ## Biggs
 

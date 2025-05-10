@@ -1,6 +1,6 @@
 # Master List
 
-- [ ] `unclaimed task goes here`
+- [ ] `unclaimed/finished task goes here. place x between brackets to check`
 
 ## Berwick
 - [ ] Ice Pillar x3 (Needs File)

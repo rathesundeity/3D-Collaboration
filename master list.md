@@ -1,5 +1,6 @@
 # Master List
 
+## Unclaimed Tasks
 - [ ] `unclaimed task goes here`
 
 ## Berwick
@@ -7,3 +8,6 @@
 - [ ] Treasure Chest x1 (Needs File)
 
 ## Biggs
+
+## Completed Tasks
+- [x] `finished tasks go here`

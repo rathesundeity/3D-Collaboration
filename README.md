@@ -9,7 +9,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - `master list.md` – Simple task checklist for prints and paints
 
 ## Workflow
-- Add new model STLs under `/models/pending/`
+- Add files with link to STL under `/models/pending/` send raw files over discord
 - Move to `/printing/` once you officially claim this print
 - Move to `/printed/` when done
 - Once painted, move model to `/painting/finished/`

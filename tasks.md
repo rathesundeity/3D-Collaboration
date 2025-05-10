@@ -5,7 +5,7 @@ Move the task from Pending to Claimed when in progress and then delete from Clai
 ## Print Pending
 
 ## Print Claimed
-- [ ] Ice Pillar (Berwick)
+- [ ] Ice Pillar x3 (Berwick)
 
 ## Paint Pending
 

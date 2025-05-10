@@ -1,6 +1,6 @@
 # Master List
 
-- [ ] 'Unclaimed Task Goes Here'
+- [ ] `unclaimed task goes here`
 
 ## Berwick
 - [ ] Ice Pillar x3 (Needs File)

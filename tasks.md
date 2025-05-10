@@ -3,11 +3,9 @@ Move the task from Pending to Claimed when in progress and then delete from Clai
 - Print Pending > Print Claimed > Paint Pending > Paint Claimed > Delete
 
 ## Print Pending
-- [x] Solar Disk (Done)
-- [ ] Ra Emblem
-- [ ] Pyramid Tower (Next up)
 
 ## Print Claimed
+- [ ] Ice Pillar (Berwick)
 
 ## Paint Pending
 

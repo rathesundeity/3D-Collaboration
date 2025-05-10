@@ -1,8 +1,17 @@
 # Ra Creations – 3D Print & Paint Tracker
 
-This repo helps us track our collaborative 3D printing and painting projects.
+This repository helps coordinate and track collaborative 3D printing and painting work between Robert and team.
 
-- Add models to `models/`
-- Track paint progress in `painting/`
-- Use `tasks.md` for our shared to-do list
-- Store inspiration and tools in `docs/`
+## Structure
+- `/models/` – STL and print-ready models
+- `/painting/` – WIP and finished painted models
+- `/docs/` – Shared knowledge, ideas, and resources
+- `tasks.md` – Simple task checklist for prints and paints
+
+## Workflow
+- Add new model STLs under `/models/pending/`
+- Move to `/printing/` once a print is underway
+- Move to `/printed/` when done
+- Once painted, move model to `/painting/finished/`
+
+We use GitHub to stay in sync and organize upcoming projects.

@@ -10,7 +10,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 
 ## Workflow
 - Add new model STLs under `/models/pending/`
-- Move to `/printing/` once a print is underway
+- Move to `/printing/` once you officially claim this print
 - Move to `/printed/` when done
 - Once painted, move model to `/painting/finished/`
 

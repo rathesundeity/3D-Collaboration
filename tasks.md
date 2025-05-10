@@ -1,4 +1,6 @@
 # 3D Printing & Painting Task List
+Move the task from Pending to Claimed when in progress and then delete from Claimed when the task is completed.
+- Print Pending > Print Claimed > Paint Pending > Paint Claimed > Delete
 
 ## Print Pending
 - [x] Solar Disk (Done)
@@ -8,10 +10,8 @@
 ## Print Claimed
 
 ## Paint Pending
-- [ ] Mask of the Scarab
-- [ ] Obsidian Blade
-- [ ] Ra Bust (Needs priming)
+
+## Paint Claimed
 
 ## Notes
-- Gloss varnish test on Anubis Bust (pending)
-- Add STL source link for Celestial Totem
+- Add notes here in bullet format

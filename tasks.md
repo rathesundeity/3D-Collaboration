@@ -1,11 +1,13 @@
 # 3D Printing & Painting Task List
 
-## Print Queue
+## Print Pending
 - [x] Solar Disk (Done)
 - [ ] Ra Emblem
 - [ ] Pyramid Tower (Next up)
 
-## Painting Queue
+### Print Claimed
+
+## Paint Pending
 - [ ] Mask of the Scarab
 - [ ] Obsidian Blade
 - [ ] Ra Bust (Needs priming)

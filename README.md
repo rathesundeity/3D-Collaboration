@@ -3,8 +3,8 @@
 This repository helps coordinate and track collaborative 3D printing and painting work between Robert and team.
 
 ## Team
-- Robert W. Berwick
-- Joshua L. Biggs
+- Robert W. Berwick (Resin Printer & Painter)
+- Joshua L. Biggs (Resin Printer & Painter)
 
 ## Structure
 - `/models/` – STL and print-ready models

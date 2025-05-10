@@ -5,7 +5,7 @@
 - [ ] Ra Emblem
 - [ ] Pyramid Tower (Next up)
 
-### Print Claimed
+## Print Claimed
 
 ## Paint Pending
 - [ ] Mask of the Scarab

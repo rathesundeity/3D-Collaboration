@@ -15,4 +15,4 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - Once painted, move model to `/painting/finished/`
 
 We use GitHub to stay in sync and organize upcoming projects.
-The whole repository is subject to change. Not set in stone yet.
+The whole repository is subject to change. Not set in stone yet or more appropriately... not cured in resin yet.

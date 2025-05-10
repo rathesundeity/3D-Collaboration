@@ -6,7 +6,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - `/models/` – STL and print-ready models
 - `/painting/` – WIP and finished painted models
 - `/docs/` – Shared knowledge, ideas, and resources
-- `tasks.md` – Simple task checklist for prints and paints
+- `master list.md` – Simple task checklist for prints and paints
 
 ## Workflow
 - Add new model STLs under `/models/pending/`

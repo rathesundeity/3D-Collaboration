@@ -5,11 +5,13 @@
 
 ## Berwick
 - [ ] Piranha Pig x10 (Needs file)
-- [ ] Large Snow Corridor (Needs file)
-- [ ] Huge Water (Needs file)
-- [ ] Large Water (Needs file)
-- [ ] Large Snow Rock (Needs file)
-- [ ] Snow Rock (Needs file)
+- [ ] Large Snow Corridor x2 (Needs file)
+- [ ] Snow Corridor x2 (Needs file)
+- [ ] Huge Water x2 (Needs file)
+- [ ] Large Water x4 (Needs file)
+- [ ] Water x10 (Needs file)
+- [ ] Large Snow Rock x4 (Needs file)
+- [ ] Snow Rock x2 (Needs file)
 
 ## Biggs
 - [ ] Abael Herder

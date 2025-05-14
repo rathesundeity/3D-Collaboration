@@ -7,7 +7,7 @@
 - [ ] Piranha Pig x10 (Awaiting varnish)
 - [ ] Large Snow Rock x4 (Needs file)
 - [ ] Snow Rock x2 (Needs file)
-- [ ] Elite Bases 8x (Awaiting paint)
+- [ ] Elite Bases x8 (Awaiting paint)
 
 ## Biggs
 - [ ] Abael Herder

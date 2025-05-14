@@ -4,9 +4,10 @@
 - [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
 
 ## Berwick
-- [ ] Piranha Pig x10 (Needs file)
+- [ ] Piranha Pig x10 (Awaiting varnish)
 - [ ] Large Snow Rock x4 (Needs file)
 - [ ] Snow Rock x2 (Needs file)
+- [ ] Elite Bases 8x (Awaiting paint)
 
 ## Biggs
 - [ ] Abael Herder

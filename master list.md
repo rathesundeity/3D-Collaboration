@@ -10,7 +10,7 @@
 - [ ] Barrel x2 (Awaiting paint)
 - [ ] Crate x2 (Awaiting paint)
 - [ ] Mast x1 (Awaiting paint)
-- [ ] Snow Imp x10 (Needs file)
+- [ ] Snow Imp x10 (Awaiting print)
 - [ ] Snow Door x3 (Awaiting print)
 - [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
 - [ ] Rubble x3 (Awaiting print)

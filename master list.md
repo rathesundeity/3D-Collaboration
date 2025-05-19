@@ -6,16 +6,15 @@
 - [ ] Snow Rock x2 (Needs file)
 
 ## Berwick
-- [ ] Elite Bases x8 (Awaiting paint)
+- [ ] Elite Bases x8 (Varnish top/side @12pm 20may then varnish @12pm 21may)
 - [ ] Barrel x2 (Awaiting paint)
 - [ ] Crate x2 (Awaiting paint)
 - [ ] Mast x1 (Awaiting paint)
 - [ ] Snow Imp x10 (Awaiting print)
-- [ ] Snow Door x3 (Awaiting print)
-- [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
-- [ ] Rubble x3 (Awaiting print)
-- [ ] Ice Pillar x6 (Awaiting print)
-- [ ] Treasure Chest x1 (Awaiting print)
+- [ ] Snow Door x3 (printing...)
+- [ ] Rubble x3 (printing...)
+- [ ] Ice Pillar x6 (3x printing...)
+- [ ] Treasure Chest x1 (printing...)
 
 ## Biggs
 - [ ] Lurker Wavethrower x6

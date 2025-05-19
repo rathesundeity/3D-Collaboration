@@ -1,7 +1,7 @@
 # 🖼️ Main Hall
 
-## Scarab Mask
-![Scarab Mask](./The-Backroom/scarab-mask.jpg)
+## Poison Trap
+![Scarab Mask](./The-Backroom/Poison-Trap.jpg)
 
 ## Ra Emblem
 ![Ra Emblem](./The-Backroom/ra-emblem.jpg)

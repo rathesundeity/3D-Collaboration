@@ -14,7 +14,7 @@
 - [ ] Snow Door x3 (Awaiting print)
 - [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
 - [ ] Rubble x3 (Awaiting print)
-- [ ] Ice Pillar x6 (Needs file)
+- [ ] Ice Pillar x6 (Awaiting print)
 - [ ] Treasure Chest x1 (Awaiting print)
 
 ## Biggs

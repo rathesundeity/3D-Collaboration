@@ -1,21 +1,27 @@
 # Master List
 
 ## Unclaimed Tasks
-- [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
 - [ ] Abael Herder x4 (Needs file)
 - [ ] Large Snow Rock x4 (Needs file)
 - [ ] Snow Rock x2 (Needs file)
 
 ## Berwick
 - [ ] Elite Bases x8 (Awaiting paint)
-- [ ] Barrel x2 (Needs file)
-- [ ] Crate x2 (Needs file)
-- [ ] Mast x1 (Needs file)
+- [ ] Barrel x2 (Awaiting paint)
+- [ ] Crate x2 (Awaiting paint)
+- [ ] Mast x1 (Awaiting paint)
+- [ ] Snow Imp x10 (Needs file)
+- [ ] Snow Door x3 (Awaiting print)
+- [ ] Ice Pillar x3 (need to select design, file has multiple designs and is in `/models/pening/`)
+- [ ] Rubble x3 (Needs file)
+- [ ] Ice Pillar x6 (Needs file)
+- [ ] Treasure Chest x1 (Awaiting print)
 
 ## Biggs
 - [ ] Lurker Wavethrower x6
+- [ ] Hound x6
+- [ ] Polar Bear x6
 
 ## Completed Tasks
-- [x] Treasure Chest x1
 - [x] Lightning Eel x10
 - [x] Piranha Pig x10

@@ -1,10 +1,10 @@
 # 🖼️ Main Hall
 
 ## Poison Trap
-![Scarab Mask](./The Resin Gallery/The Backroom/Poison Trap.jpg)
+![Poison Trap](./The%20Resin%20Gallery/Th%20Backroom/Poison%20Trap.jpg)
 
 ## Ra Emblem
-![Ra Emblem](./The-Backroom/ra-emblem.jpg)
+![Ra Emblem](./The%20Backroom/ra%20emblem.jpg)
 
 ## Solar Guardian
 ![Solar Guardian](./The-Backroom/solar-guardian.jpg)

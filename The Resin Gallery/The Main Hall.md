@@ -1,7 +1,7 @@
 # 🖼️ Main Hall
 
 ## Scarab Mask
-![Scarab Mask](./Gallery Backroom/scarab-mask.jpg)
+![Scarab Mask](./The-Backroom/scarab-mask.jpg)
 
 ## Ra Emblem
 ![Ra Emblem](./finished/ra-emblem.jpg)

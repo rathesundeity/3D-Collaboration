@@ -5,7 +5,10 @@
 <p><em>Painted by printed by Berwick</em></p>
 
 <h2>Xesht (Unpainted)</h2>
-<img src="./The%20Backroom/Xesht1.jpg" width="300"/> <img src="./The%20Backroom/Xesht2.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Xesht1.jpg" width="300" style="margin-right: 10px;"/>
+  <img src="./The%20Backroom/Xesht2.jpg" width="300"/>
+</div>
 <p><em>Printed by Berwick</em></p>
 
 <h2>Banner of Courage<h2>

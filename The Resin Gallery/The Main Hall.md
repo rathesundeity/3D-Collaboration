@@ -8,8 +8,8 @@
 <img src="./The%20Backroom/Xesht1.jpg" width="300"/> <img src="./The%20Backroom/Xesht2.jpg" width="300"/></h2>
 <p><em>Printed by Berwick</em></p>
 
-<h2>Banner of Courage</h2>
-<img src="./The%20Backroom/Banner%20of%20Courage1.jpg" width="300"/> <img src="./The%20Backroom/Banner%20of%20Courage2.jpg" width="300"/>
+<h2>Banner of Courage<h2>
+<img src="./The%20Backroom/Banner%20of%20Courage1.jpg" width="300"/> <img src="./The%20Backroom/Banner%20of%20Courage2.jpg" width="300"/></h2>
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Electric Eels</h2>
@@ -24,8 +24,8 @@
 <img src="./The%20Backroom/Deepwraith.jpg" width="300"/>
 <p><em>Printed and painted by Biggs</em></p>
 
-<h2>Torch Bearer</h2>
-<img src="./The%20Backroom/Torch%20Bearer1.jpg" width="300"/> <img src="./The%20Backroom/Torch%20Bearer2.jpg" width="300"/>
+<h2>Torch Bearer<h2>
+<img src="./The%20Backroom/Torch%20Bearer1.jpg" width="300"/> <img src="./The%20Backroom/Torch%20Bearer2.jpg" width="300"/></h2>
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Piranha Pig</h2>

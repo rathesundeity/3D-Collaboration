@@ -4,7 +4,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 
 ## Team
 - Ra (Resin Printer, Painter, Project Manager & Owner)
-- Joshua L. Biggs (Resin Printer, Painter & Project Manager)
+- Biggs (Resin Printer, Painter & Project Manager)
 
 ## Structure
 - `/models/` – STL and print-ready models

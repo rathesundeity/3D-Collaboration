@@ -4,7 +4,6 @@
 <img src="./The%20Backroom/Poison%20Trap.jpg" width="300"/>
 <p><em>Printed and painted by Robert</em></p>
 <h2>Xesht (Unpainted)<h2>
-<p style="font-size: 0.9em; color: gray;">Model by Robert</p>
 <img src="./The%20Backroom/Xesht1.jpg" width="300"/> <img src="./The%20Backroom/Xesht2.jpg" width="300"/>
 <h2>Banner of Courage<h2>
 <img src="./The%20Backroom/Banner%20of%20Courage1.jpg" width="300"/> <img src="./The%20Backroom/Banner%20of%20Courage2.jpg" width="300"/>
@@ -28,6 +27,3 @@
 <img src="./The%20Backroom/Mast.jpg" width="300"/>
 <h2>Rubble<h2>
 <img src="./The%20Backroom/Rubble.jpg" width="300"/>
-
-<h2>Gold Base <span style="font-size:0.8em; color:gray;">(by Alex)</span></h2>
-<img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>

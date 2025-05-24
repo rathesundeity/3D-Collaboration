@@ -18,7 +18,7 @@
 
 <h2>Gold Base<h2>
 <img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>
-<p><em>Printed by Biggs and painted by Berwick</em></p>
+<p><em>Printed, painted and fixed with a magnet by Biggs</em></p>
 
 <h2>Deepwraith<h2>
 <img src="./The%20Backroom/Deepwraith.jpg" width="300"/>

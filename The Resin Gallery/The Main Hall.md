@@ -20,3 +20,6 @@
 
 <h2>Torch Bearer<h2>
 <img src="./The%20Backroom/Torch%20Bearer1.jpg" width="300"/> <img src="./The%20Backroom/Torch%20Bearer2.jpg" width="300"/>
+
+<h2>Piranha Pig<h2>
+<img src="./The%20Backroom/Piranha%20Pig.jpg" width="300"/>

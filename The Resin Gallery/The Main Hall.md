@@ -21,15 +21,21 @@
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Electric Eels</h2>
-<img src="./The%20Backroom/Electric%20Eels.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Electric%20Eels.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Gold Base</h2>
-<img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>
+</div>
 <p><em>Printed, painted and fixed with a magnet by Biggs</em></p>
 
 <h2>Deepwraith</h2>
-<img src="./The%20Backroom/Deepwraith.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Deepwraith.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Torch Bearer</h2>
@@ -40,25 +46,37 @@
 <p><em>Printed and painted by Biggs</em></p>
 
 <h2>Piranha Pig</h2>
-<img src="./The%20Backroom/Piranha%20Pig.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Piranha%20Pig.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>
 
 <h2>Ice Pillar</h2>
-<img src="./The%20Backroom/Ice%20Pillar.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Ice%20Pillar.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>
 
 <h2>Chest</h2>
-<img src="./The%20Backroom/Chest.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Chest.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>
 
 <h2>Crate</h2>
-<img src="./The%20Backroom/Crate.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Crate.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>
 
 <h2>Mast</h2>
-<img src="./The%20Backroom/Mast.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Mast.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>
 
 <h2>Rubble</h2>
-<img src="./The%20Backroom/Rubble.jpg" width="300"/>
+<div>
+  <img src="./The%20Backroom/Rubble.jpg" width="300"/>
+</div>
 <p><em>Printed and painted by Berwick</em></p>

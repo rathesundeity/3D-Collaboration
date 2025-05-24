@@ -14,3 +14,6 @@
   
 <h2>Gold Base<h2>
 <img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>
+
+<h2>Deepwraith<h2>
+<img src="./The%20Backroom/Deepwraith.jpg" width="300"/>

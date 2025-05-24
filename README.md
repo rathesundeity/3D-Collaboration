@@ -3,7 +3,7 @@
 This repository helps coordinate and track collaborative 3D printing and painting work between Robert and team.
 
 ## Team
-- Robert W. Berwick (Resin Printer, Painter & Project Manager)
+- Ra (Resin Printer, Painter, Project Manager & Owner)
 - Joshua L. Biggs (Resin Printer, Painter & Project Manager)
 
 ## Structure
@@ -17,6 +17,9 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - Move to `/printing/` once you officially claim this print
 - Move to `/printed/` when done
 - Once painted, move model to `/painting/finished/`
+
+## Connect W/ Us
+- Discord: https://discord.gg/J7fCXhdH
 
 We use GitHub to stay in sync and organize upcoming projects.
 The whole repository is subject to change. Not set in stone yet or more appropriately... not cured in resin yet.

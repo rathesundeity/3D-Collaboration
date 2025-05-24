@@ -28,3 +28,6 @@
 <img src="./The%20Backroom/Mast.jpg" width="300"/>
 <h2>Rubble<h2>
 <img src="./The%20Backroom/Rubble.jpg" width="300"/>
+
+<h2>Gold Base <span style="font-size:0.8em; color:gray;">(by Alex)</span></h2>
+<img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>

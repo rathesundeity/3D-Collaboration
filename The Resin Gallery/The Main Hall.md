@@ -17,3 +17,6 @@
 
 <h2>Deepwraith<h2>
 <img src="./The%20Backroom/Deepwraith.jpg" width="300"/>
+
+<h2>Torch Bearer<h2>
+<img src="./The%20Backroom/Torch%20Bearer1.jpg" width="300"/> <img src="./The%20Backroom/Torch%20Bearer2.jpg" width="300"/>

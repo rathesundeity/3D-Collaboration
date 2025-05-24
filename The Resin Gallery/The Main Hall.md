@@ -8,3 +8,9 @@
 
 <h2>Banner of Courage<h2>
 <img src="./The%20Backroom/Banner%20of%20Courage1.jpg" width="300"/> <img src="./The%20Backroom/Banner%20of%20Courage2.jpg" width="300"/>
+
+<h2>Electric Eels<h2>
+<img src="./The%20Backroom/Electric%20Eels.jpg" width="300"/>
+  
+<h2>Gold Base<h2>
+<img src="./The%20Backroom/Gold%20Base.jpg" width="300"/>

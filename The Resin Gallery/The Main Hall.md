@@ -4,14 +4,14 @@
 <div>
   <img src="./The%20Backroom/Poison%20Trap.jpg" width="300"/>
 </div>
-<p><em>Painted by printed by Berwick</em></p>
+<p><em>Painted by printed by Ra</em></p>
 
 <h2>Xesht (Unpainted)</h2>
 <div>
   <img src="./The%20Backroom/Xesht1.jpg" width="300" style="margin-right: 10px;"/>
   <img src="./The%20Backroom/Xesht2.jpg" width="300"/>
 </div>
-<p><em>Printed by Berwick</em></p>
+<p><em>Printed by Ra</em></p>
 
 <h2>Banner of Courage</h2>
 <div>
@@ -49,31 +49,31 @@
 <div>
   <img src="./The%20Backroom/Piranha%20Pig.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Berwick</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Ice Pillar</h2>
 <div>
   <img src="./The%20Backroom/Ice%20Pillar.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Berwick</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Chest</h2>
 <div>
   <img src="./The%20Backroom/Chest.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Berwick</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Crate</h2>
 <div>
   <img src="./The%20Backroom/Crate.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Berwick</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Mast</h2>
 <div>
   <img src="./The%20Backroom/Mast.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Berwick</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Rubble</h2>
 <div>

@@ -4,7 +4,7 @@
 <div>
   <img src="./The%20Backroom/Poison%20Trap.jpg" width="300"/>
 </div>
-<p><em>Painted by printed by Ra</em></p>
+<p><em>Printed by painted by Ra</em></p>
 
 <h2>Xesht (Unpainted)</h2>
 <div>

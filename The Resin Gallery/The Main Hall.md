@@ -13,7 +13,7 @@
 </div>
 <p><em>Printed by Ra</em></p>
 
-<h2>Banner of Courage</h2>
+<h2>Banner of Strength</h2>
 <div>
   <img src="./The%20Backroom/Banner%20of%20Courage1.jpg" width="300" style="margin-right: 10px;"/>
   <img src="./The%20Backroom/Banner%20of%20Courage2.jpg" width="300"/>
@@ -36,7 +36,7 @@
 <div>
   <img src="./The%20Backroom/Deepwraith.jpg" width="300"/>
 </div>
-<p><em>Printed and painted by Biggs</em></p>
+<p><em>Painted by Biggs</em></p>
 
 <h2>Torch Bearer</h2>
 <div>

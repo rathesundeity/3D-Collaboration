@@ -3,7 +3,7 @@
 This repository helps coordinate and track collaborative 3D printing and painting work between Robert and team.
 
 ## Team
-- Ra (Resin Printer, Painter, Project Manager & Owner)
+- Ra (Owner, Resin Printer, Painter, Project Manager & The Resin Gallery Docent)
 - Biggs (Resin Printer, Painter & Project Manager)
 
 ## Structure

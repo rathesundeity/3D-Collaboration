@@ -2,55 +2,55 @@
 
 <h2>Hound</h2>
 <div>
-  <img src="./The%20Backroom/Hound.jpg" width="300"/>
+  <img src="./The%20Backroom/Hound.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Log</h2>
 <div>
-  <img src="./The%20Backroom/Log.jpg" width="300"/>
+  <img src="./The%20Backroom/Log.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Orbed Altar</h2>
 <div>
-  <img src="./The%20Backroom/Orbed%20Altar.jpg" width="300"/>
+  <img src="./The%20Backroom/Orbed%20Altar.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Altar</h2>
 <div>
-  <img src="./The%20Backroom/Altar.jpg" width="300"/>
+  <img src="./The%20Backroom/Altar.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Sun Demon</h2>
 <div>
-  <img src="./The%20Backroom/Sun%20Demon.jpg" width="300"/>
+  <img src="./The%20Backroom/Sun%20Demon.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Ra</em></p>
 
 <h2>Snow Rock</h2>
 <div>
-  <img src="./The%20Backroom/Snow%20Rock.jpg" width="300"/>
+  <img src="./The%20Backroom/Snow%20Rock.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Failed Orbed Altar</h2>
 <div>
-  <img src="./The%20Backroom/Failed%20Orbed%20Altar.jpg" width="300"/>
+  <img src="./The%20Backroom/Failed%20Orbed%20Altar.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Ra. Orb provided by Zachary</em></p>
 
 <h2>Algox Guard</h2>
 <div>
-  <img src="./The%20Backroom/Algox%20Guard.jpg" width="300"/>
+  <img src="./The%20Backroom/Algox%20Guard.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
 <h2>Sure Bear</h2>
 <div>
-  <img src="./The%20Backroom/Sure%20Bear.jpg" width="300"/>
+  <img src="./The%20Backroom/Sure%20Bear.jpeg" width="300"/>
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 

@@ -24,7 +24,7 @@
 </div>
 <p><em>Printed by painted by Biggs</em></p>
 
-<h2>Sun Demon Trap</h2>
+<h2>Sun Demon</h2>
 <div>
   <img src="./The%20Backroom/Sun%20Demon.jpg" width="300"/>
 </div>

@@ -1,28 +1,34 @@
 # 🖼️ Main Hall
 
+<h2>Wind Demon</h2>
+<div>
+  <img src="./The%20Backroom/Wind%20Demon.jpg" width="300"/>
+</div>
+<p><em>Printed by Biggs</em></p>
+
 <h2>Hound</h2>
 <div>
   <img src="./The%20Backroom/Hound.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Log</h2>
 <div>
   <img src="./The%20Backroom/Log.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Orbed Altar</h2>
 <div>
   <img src="./The%20Backroom/Orbed%20Altar.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Altar</h2>
 <div>
   <img src="./The%20Backroom/Altar.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Sun Demon</h2>
 <div>
@@ -34,7 +40,7 @@
 <div>
   <img src="./The%20Backroom/Snow%20Rock.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Failed Orbed Altar</h2>
 <div>
@@ -46,19 +52,19 @@
 <div>
   <img src="./The%20Backroom/Algox%20Guard.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Sure Bear</h2>
 <div>
   <img src="./The%20Backroom/Sure%20Bear.jpeg" width="300"/>
 </div>
-<p><em>Printed by painted by Biggs</em></p>
+<p><em>Printed and painted by Biggs</em></p>
 
 <h2>Poison Trap</h2>
 <div>
   <img src="./The%20Backroom/Poison%20Trap.jpg" width="300"/>
 </div>
-<p><em>Printed by painted by Ra</em></p>
+<p><em>Printed and painted by Ra</em></p>
 
 <h2>Xesht (Unpainted)</h2>
 <div>

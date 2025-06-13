@@ -2,7 +2,8 @@
 
 <h2>Wind Demon</h2>
 <div>
-  <img src="./The%20Backroom/Wind%20Demon.jpg" width="300"/>
+  <img src="./The%20Backroom/Wind%20Demon.jpg" width="300"/>style="margin-right: 10px;"/>
+  <img src="./The%20Backroom/Wind%20Demon%202.jpg" width="300"/>  
 </div>
 <p><em>Printed by Biggs</em></p>
 

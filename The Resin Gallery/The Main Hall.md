@@ -1,5 +1,11 @@
 # 🖼️ Main Hall
 
+<h2>MagHex</h2>
+<div>
+  <img src="./The%20Backroom/MagHex.jpg" width="300"/>  
+</div>
+<p><em>Printed and fixed with magnets by Biggs</em></p>
+
 <h2>Wind Demon</h2>
 <div>
   <img src="./The%20Backroom/Wind%20Demon.jpg" width="300" style="margin-right: 10px;"/>

@@ -6,6 +6,24 @@
 </div>
 <p><em>Printed and fixed with magnets by Biggs</em></p>
 
+<h2>Shrike Fiend (Large)</h2>
+<div>
+  <img src="./The%20Backroom/Shrike%20Fiend.jpg" width="300"/>  
+</div>
+<p><em>Printed and painted by Biggs</em></p>
+
+<h2>Shrike Fiend</h2>
+<div>
+  <img src="./The%20Backroom/Skrike%20Fiend%20Small.jpg" width="300"/>  
+</div>
+<p><em>Printed and painted by Biggs</em></p>
+
+<h2>Snow Imp</h2>
+<div>
+  <img src="./The%20Backroom/Snow%20Imp.jpg" width="300"/>  
+</div>
+<p><em>Printed and painted by Ra</em></p>
+
 <h2>Wind Demon</h2>
 <div>
   <img src="./The%20Backroom/Wind%20Demon.jpg" width="300" style="margin-right: 10px;"/>

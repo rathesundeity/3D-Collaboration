@@ -7,16 +7,11 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - Biggs (FDM/Resin Printer, Painter & Project Manager)
 
 ## Structure
-- `/models/` – STL and print-ready models
-- `/painting/` – WIP and finished painted models
 - `/docs/` – Shared knowledge, ideas, and resources
 - `master list.md` – Simple task checklist for prints and paints
 
-## Workflow
-- Add files with link to STL under `/models/pending/` send raw files over discord
-- Move to `/printing/` once you officially claim this print
-- Move to `/printed/` when done
-- Once painted, move model to `/painting/finished/`
+## The Resin Gallery
+- 
 
 ## Connect W/ Us
 - Discord: https://discord.gg/J7fCXhdH

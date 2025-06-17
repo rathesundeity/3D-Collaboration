@@ -4,7 +4,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 
 ## Team
 - Ra (Owner, Resin Printer, Painter, Project Manager & The Resin Gallery Docent)
-- Biggs (Resin Printer, Painter & Project Manager)
+- Biggs (FDM/Resin Printer, Painter & Project Manager)
 
 ## Structure
 - `/models/` – STL and print-ready models

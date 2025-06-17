@@ -1,4 +1,4 @@
-# 🖼️ Main Hall
+# 🖼️ The Main Hall
 
 <h2>MagHex</h2>
 <div>

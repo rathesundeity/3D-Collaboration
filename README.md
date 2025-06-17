@@ -11,7 +11,7 @@ This repository helps coordinate and track collaborative 3D printing and paintin
 - `master list.md` – Simple task checklist for prints and paints
 
 ## The Resin Gallery
-- https://github.com/rathesundeity/3D-Collaboration/blob/main/The%20Resin%20Gallery/The%20Main%20Hall.md
+- The Main Hall [https://github.com/rathesundeity/3D-Collaboration/blob/main/The%20Resin%20Gallery/The%20Main%20Hall.md]
 
 ## Connect W/ Us
 - Discord: https://discord.gg/J7fCXhdH

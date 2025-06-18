@@ -1,5 +1,11 @@
 # 🖼️ The Main Hall
 
+<h2>MagHex Setup</h2>
+<div>
+  <img src="./The%20Backroom/MagHex%20Applied.jpg" width="300"/>  
+</div>
+<p><em>MagHex application presented by Biggs</em></p>
+
 <h2>MagHex</h2>
 <div>
   <img src="./The%20Backroom/MagHex.jpg" width="300"/>  
